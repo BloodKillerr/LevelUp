@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad2506e78ea6ad49897492da3febaf0, type: 3}
+  m_Name: Kajdany cieni
+  m_EditorClassIdentifier: 
+  name: Kajdany cieni
+  rarity: Legendarny
+  property1: 'Pancerz: 50'
+  property2: "Obra\u017Cenia: 70"
+  description: "Zniszczone kajdany, kt\xF3rymi niegdy\u015B sp\u0119tano pot\u0119\u017Cn\u0105
+    istot\u0119"
+  price: 500
+  icon: {fileID: 21300000, guid: 4a161ba1448a139479ab5f7193e8432d, type: 3}
+  amount: 1
+  isStackable: 0
+  mesh: {fileID: 7110506391607759054, guid: bf8414a3265aba54db54a1654bb46e8c, type: 3}
+  equipSlot: 3
+  armorModifier: 50
+  damageModifier: 70

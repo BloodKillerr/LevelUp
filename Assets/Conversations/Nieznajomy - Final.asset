@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f4a160675efc874faf48ee884d3320e, type: 3}
+  m_Name: Nieznajomy - Final
+  m_EditorClassIdentifier: 
+  NPC: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+  MainCharacter: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: To ty? Co tutaj robisz?
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Witaj! Czeka\u0142em na ciebie tak d\u0142ugo!"
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: O co tu chodzi? Dlaczego tutaj...
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Koniec si\u0119 zbli\u017Ca, jak ju\u017C pewnie si\u0119 domy\u015Blasz.
+      Dlatego mam dla ciebie ostatnie, najwa\u017Cniejsze zadanie!"
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: Zaczekaj...
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Przed tob\u0105 ostatni test. Misja, do kt\xF3rej przygotowywa\u0142e\u015B
+      si\u0119 przez ca\u0142\u0105 swoj\u0105 podr\xF3\u017C."
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Teraz nadszed\u0142 czas, by sprawdzi\u0107, czy twoje przygotowania by\u0142y..."
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: Owocne!

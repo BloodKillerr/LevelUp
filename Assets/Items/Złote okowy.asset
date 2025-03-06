@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad2506e78ea6ad49897492da3febaf0, type: 3}
+  m_Name: "Z\u0142ote okowy"
+  m_EditorClassIdentifier: 
+  name: "Z\u0142ote okowy"
+  rarity: Rzadki
+  property1: 'Pancerz: 7'
+  property2: 
+  description: "Poz\u0142acane okowy ci\u0105\u017C\u0105ce przy ka\u017Cdym kroku"
+  price: 100
+  icon: {fileID: 21300000, guid: 0a9a4ec263f0ad141b6c6f814a9cd11a, type: 3}
+  amount: 1
+  isStackable: 0
+  mesh: {fileID: 8473562236035521290, guid: 98f0e7b36be92f04ca602964b4be9b22, type: 3}
+  equipSlot: 6
+  armorModifier: 7
+  damageModifier: 0

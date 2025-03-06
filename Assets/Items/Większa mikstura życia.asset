@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a91b8eb67e16804ebbb0a26b7238b4d, type: 3}
+  m_Name: "Wi\u0119ksza mikstura \u017Cycia"
+  m_EditorClassIdentifier: 
+  name: "Wi\u0119ksza mikstura \u017Cycia"
+  rarity: Rzadki
+  property1: 'Leczenie: 40'
+  property2: 
+  description: "Wzmocniona magi\u0105 mikstura zdrowia"
+  price: 40
+  icon: {fileID: 21300000, guid: 45d1e7fd337e0864d9e7754c6ac089c6, type: 3}
+  amount: 1
+  isStackable: 1
+  mesh: {fileID: 8042465798467703647, guid: 70c43d0aeed27a24bb19d87945865817, type: 3}
+  potionType: 0
+  healAmount: 40
+  manaAmount: 0

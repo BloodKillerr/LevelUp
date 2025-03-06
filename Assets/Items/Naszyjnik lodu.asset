@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 858e0ad1380750b409cfd51b6d978709, type: 3}
+  m_Name: Naszyjnik lodu
+  m_EditorClassIdentifier: 
+  name: Naszyjnik lodu
+  rarity: Epicki
+  property1: "Czas trwania zamro\u017Cenia: 2"
+  property2: 
+  description: "Naszyjnik ochronny przesi\u0105kni\u0119ty moc\u0105 \u017Cywio\u0142u"
+  price: 85
+  icon: {fileID: 21300000, guid: 8236f850fbd8d1545b59a0acf2cbf0e0, type: 3}
+  amount: 1
+  isStackable: 0
+  mesh: {fileID: 6617063043109492375, guid: dfde882e15994e74184ad81e7e547947, type: 3}
+  equipSlot: 7
+  armorModifier: 0
+  damageModifier: 0
+  type: 1
+  fireDamage: 0
+  frostDuration: 2
+  frostRadius: 0
+  healAmount: 0

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4eaccedddf5bcf4eb0ad9907e1ad785, type: 3}
+  m_Name: Oko potwora
+  m_EditorClassIdentifier: 
+  name: Oko potwora
+  rarity: Legendarny
+  property1: "\u0179r\xF3d\u0142o: ???"
+  property2: 
+  description: "Ga\u0142ka oczna pozostawiona przez ostatniego osobnika mistycznej
+    rasy. Materia\u0142 do wytworzenia tajemniczego ekwipunku"
+  price: 250
+  icon: {fileID: 21300000, guid: 5f9771db6172f9c4bae8b2ed591d33c2, type: 3}
+  amount: 1
+  isStackable: 0
+  mesh: {fileID: 4055958364600933509, guid: 906c1908d93d2d84c97f8037d841e76b, type: 3}
+  Source: ???

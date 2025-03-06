@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4eaccedddf5bcf4eb0ad9907e1ad785, type: 3}
+  m_Name: "P\u0119kni\u0119ta gwiazda"
+  m_EditorClassIdentifier: 
+  name: "P\u0119kni\u0119ta gwiazda"
+  rarity: Epicki
+  property1: "\u0179r\xF3d\u0142o: \u017Bywy kryszta\u0142"
+  property2: 
+  description: "\u0179r\xF3d\u0142o energii \u017Cyciowej o\u017Cywionej materii"
+  price: 50
+  icon: {fileID: 21300000, guid: 48b7d10276c294046b65c49827f1922e, type: 3}
+  amount: 1
+  isStackable: 1
+  mesh: {fileID: 997619514292327932, guid: ae8f9c69d8c3cb7438eae7cfb402f29d, type: 3}
+  Source: "\u017Bywy kryszta\u0142"

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f4a160675efc874faf48ee884d3320e, type: 3}
+  m_Name: Nieznajomy2
+  m_EditorClassIdentifier: 
+  NPC: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+  MainCharacter: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: Co? Ty?! Co ty tu...
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: Co to za miejsce?
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "To...Moja kryj\xF3wka. Tak, tak! Moja kryj\xF3wka. I dlatego tym bardziej
+      dziwi\u0119 si\u0119, \u017Ce tu trafi\u0142e\u015B..."
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: "Sam chcia\u0142bym wiedzie\u0107, dlaczego si\u0119 tu znalaz\u0142em.
+      Poza tym, co to za maszyny?"
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "To? A...to nic wa\u017Cnego, naprawd\u0119. Taki ma\u0142y...eksperyment,
+      kt\xF3rym zajmuj\u0119 si\u0119 od kilku miesi\u0119cy. Nic, czym powiniene\u015B
+      si\u0119 przejmowa\u0107."
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: ...
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: No, nie patrz tak na mnie!
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: "Spokojne. Wierz\u0119 ci."
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "To wspaniale! A skoro ju\u017C tu jeste\u015B, pozw\xF3l, \u017Ce ponownie
+      poprosz\u0119 ci\u0119 o ma\u0142\u0105 przys\u0142ug\u0119."
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: Co tym razem?
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Nic wielkiego! Tylko takie ma\u0142e...porz\u0105dki. Porz\u0105dki, kt\xF3re
+      trzeba przeprowadzi\u0107 w tym przebrzyd\u0142ym lochu. Ufam, \u017Ce dasz
+      sobie rad\u0119!"
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Je\u017Celi ci to pomo\u017Ce, mo\u017Cesz zabra\u0107 pancerz, kt\xF3ry
+      przechowuj\u0119 w tamtej skrzyni! I tak z niego nie korzysta\u0142em..."

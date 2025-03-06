@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f4a160675efc874faf48ee884d3320e, type: 3}
+  m_Name: Nieznajomy3
+  m_EditorClassIdentifier: 
+  NPC: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+  MainCharacter: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Witaj! Spotykamy si\u0119 ponownie..."
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: To prawda.
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "I sp\xF3jrz tylko na to! Tym razem kto\u015B do nas do\u0142\u0105czy\u0142."
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: "Ju\u017C go wcze\u015Bniej spotka\u0142em."
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "To wspaniale. Ale ale, teraz przejd\u017Amy do rzeczy wa\u017Cniejszych!"
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Mam dla ciebie kolejne zadanie! Jeste\u015B coraz bli\u017Cej celu, dlatego
+      musisz urosn\u0105\u0107 w sile!"
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Dlatego w\u0142a\u015Bnie powierzam ci misj\u0119 pokonania jednych z
+      najpot\u0119\u017Cniejszych przeciwnik\xF3w, jacy pozostali na twojej drodze!"
+  - character: {fileID: 11400000, guid: 55780f2d2ce7cb74380de0457204b6eb, type: 2}
+    text: "Nie mog\u0119 si\u0119 doczeka\u0107..."
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Ja r\xF3wnie\u017C, m\xF3j drogi..."
+  - character: {fileID: 11400000, guid: 8c32b816fac649944a49619cbf527d3c, type: 2}
+    text: "Ja r\xF3wnie\u017C..."

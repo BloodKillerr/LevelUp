@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad2506e78ea6ad49897492da3febaf0, type: 3}
+  m_Name: "Maska tysi\u0105ca demon\xF3w"
+  m_EditorClassIdentifier: 
+  name: "Maska tysi\u0105ca demon\xF3w"
+  rarity: Legendarny
+  property1: 'Pancerz: 80'
+  property2: "Obra\u017Cenia: 90"
+  description: "Demoniczna maska, w kt\xF3re uwi\u0119ziono dusze tysi\u0105ca najpot\u0119\u017Cniejszych
+    demon\xF3w"
+  price: 500
+  icon: {fileID: 21300000, guid: bb579b010d2efcb449259ecd1fadc01a, type: 3}
+  amount: 1
+  isStackable: 0
+  mesh: {fileID: 8759604157781232761, guid: 03f726012eb96df4783cad16232926b9, type: 3}
+  equipSlot: 0
+  armorModifier: 80
+  damageModifier: 90

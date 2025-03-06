@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbbec4fbdd00415498d63b2adbb8efb9, type: 3}
+  m_Name: Zapiski mistrza
+  m_EditorClassIdentifier: 
+  name: Zapiski mistrza
+  rarity: Legendarny
+  property1: "\u0179r\xF3d\u0142o: ???"
+  property2: 
+  description: Zapiski bezimiennego mistrza lochu. Rozpoczyna zadanie "Legenda mroku"
+  price: 100
+  icon: {fileID: 21300000, guid: 897bf18c00eead74bbbd32bab32cc725, type: 3}
+  amount: 1
+  isStackable: 0
+  mesh: {fileID: 8088504477368525055, guid: d5b2613cb8e8cd9448e94c322509640a, type: 3}
+  source: ???
+  quest:
+    title: Legenda mroku
+    description: "Aby zdoby\u0107 pancerz nale\u017C\u0105cy niegdy\u015B do Mrocznego
+      W\u0142adcy, pokonaj swoich najsilniejszych wrog\xF3w. Wtedy dowiedziesz, \u017Ce
+      jeste\u015B godzien zdobycia mocy pochodz\u0105cej z czelu\u015Bci mroku."
+    collectObjectives:
+    - amount: 1
+      type: "P\u0142yn rdzeniowy"
+    - amount: 1
+      type: Oko potwora
+    - amount: 1
+      type: "\u0179r\xF3d\u0142o mocy"
+    killObjectives: []
+    riddleObjectives: []
+    xp: 5000
+    gold: 3000
+    titleReward: "W\u0142adca Mroku"
+    traitReward: "W\u0142adca Cieni: + 100 obra\u017Ce\u0144"
+    items:
+    - item: {fileID: 11400000, guid: f2961f8d26b03ea4386e6bccb70c37d4, type: 2}
+      amount: 1
+    - item: {fileID: 11400000, guid: fc88434edace4cf4a830aca5f84ccfe8, type: 2}
+      amount: 1
+    - item: {fileID: 11400000, guid: e36ce122f3f1fe94c8a98b157392252a, type: 2}
+      amount: 1
+    questGiverName: ???

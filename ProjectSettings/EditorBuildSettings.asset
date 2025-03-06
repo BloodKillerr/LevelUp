@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2288444da4f6b4546a1d7f03889061c4
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Scenes/Tutorial F1.unity
+    guid: 876f4b5b021b2d34e958b20852dfec4b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Scenes/Tutorial F2.unity
+    guid: fc062927a3dc97c4780fc00a57e495be
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Scenes/Tutorial F3.unity
+    guid: 0c112393212ceb1469a4a8059e3b20e9
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Scenes/Tutorial F4.unity
+    guid: d0d5d3d3c78822e41afe6d2e1bff3657
+  - enabled: 1
+    path: Assets/Scenes/Tutorial Scenes/Tutorial F5.unity
+    guid: daff98e42ed5c684a8a797c5fa955617
+  - enabled: 1
+    path: "Assets/Scenes/Ni\u017Cszy Loch/Tajemniczy Pok\xF3j.unity"
+    guid: 741f1466c14054b47aef9784abdbf442
+  - enabled: 1
+    path: "Assets/Scenes/Ni\u017Cszy Loch/Ni\u017Cszy Loch F1.unity"
+    guid: 7ef0dec390ca868488fd2fb9fc2e428d
+  - enabled: 1
+    path: "Assets/Scenes/Ni\u017Cszy Loch/Ni\u017Cszy Loch F2.unity"
+    guid: b9098028d35b39644a55f36c04cec62b
+  - enabled: 1
+    path: "Assets/Scenes/Ni\u017Cszy Loch/Ni\u017Cszy Loch F3.unity"
+    guid: fe9aed90a860f504596bdd85baa9b81a
+  - enabled: 1
+    path: "Assets/Scenes/Ni\u017Cszy Loch/Ni\u017Cszy Loch F4.unity"
+    guid: c015bddaf74232d49ac2bb17cfc7ce3a
+  - enabled: 1
+    path: "Assets/Scenes/Ni\u017Cszy Loch/Ni\u017Cszy Loch F5.unity"
+    guid: b6d2b8d8acbafb140bbb42644c5bcad5
+  - enabled: 1
+    path: "Assets/Scenes/Ni\u017Cszy Loch/Ni\u017Cszy Loch - Komnata Nagr\xF3d.unity"
+    guid: 65eea2e4916a7a046895497b6cfce295
+  - enabled: 1
+    path: "Assets/Scenes/Wy\u017Cszy Loch/Wy\u017Cszy Loch - Bezpieczna Strefa.unity"
+    guid: fa862c9b66b61e74f8b364e33a42711b
+  - enabled: 1
+    path: "Assets/Scenes/Wy\u017Cszy Loch/Wy\u017Cszy Loch F1.unity"
+    guid: 043c7aba4e9cfa847b28e662a4afbfae
+  - enabled: 1
+    path: "Assets/Scenes/Wy\u017Cszy Loch/Wy\u017Cszy Loch F2.unity"
+    guid: ef2ce8d1af531604aa83ae12a5623dcb
+  - enabled: 1
+    path: "Assets/Scenes/Wy\u017Cszy Loch/Laboratorium.unity"
+    guid: c7623e3cd03248246a143c1f02cb1616
+  - enabled: 1
+    path: "Assets/Scenes/Wy\u017Cszy Loch/Wy\u017Cszy Loch F3.unity"
+    guid: e3417c0d19642b946ac52c4ee52bef98
+  - enabled: 1
+    path: "Assets/Scenes/Wy\u017Cszy Loch/Wy\u017Cszy Loch F4.unity"
+    guid: a5ab3c28fb3278b4292778768214c330
+  - enabled: 1
+    path: "Assets/Scenes/Wy\u017Cszy Loch/Wy\u017Cszy Loch F5.unity"
+    guid: 9f959d59f377bcb458f697fef5868203
+  - enabled: 1
+    path: "Assets/Scenes/Wy\u017Cszy Loch/Wy\u017Cszy Loch - Komnata Nagr\xF3d.unity"
+    guid: 59850e2857c00ce49a09982b173d67e0
+  - enabled: 1
+    path: Assets/Scenes/Przedsionek Mroku/Przedsionek Mroku - Bezpieczna Strefa.unity
+    guid: b488ec3745731bf4d8391d47ec29d886
+  - enabled: 1
+    path: Assets/Scenes/Przedsionek Mroku/Przedsionek Mroku F1.unity
+    guid: 6bba73fe951768f4aaed68279f1fd8e6
+  - enabled: 1
+    path: Assets/Scenes/Przedsionek Mroku/Przedsionek Mroku F2.unity
+    guid: dd9de4d2360bfb049b7481bc7510653a
+  - enabled: 1
+    path: Assets/Scenes/Przedsionek Mroku/Przedsionek Mroku F3.unity
+    guid: 15b8ec001dc24c047ba16c529521e38f
+  - enabled: 1
+    path: Assets/Scenes/Przedsionek Mroku/Przedsionek Mroku F4.unity
+    guid: 37faafd7f47496e458606a7ff6efca17
+  - enabled: 1
+    path: Assets/Scenes/Przedsionek Mroku/Przedsionek Mroku F5.unity
+    guid: 2a731217dc10a6d469671caead1e0837
+  - enabled: 1
+    path: "Assets/Scenes/G\u0142\u0119bia Mroku/G\u0142\u0119bia Mroku - Bezpieczna
+      Strefa.unity"
+    guid: d7e8722f7bf935f48b9e2705ed5c7c6d
+  - enabled: 1
+    path: "Assets/Scenes/G\u0142\u0119bia Mroku/G\u0142\u0119bia Mroku F1.unity"
+    guid: 04b0e885bb7ce144eae80cc2fe8f4da6
+  - enabled: 1
+    path: "Assets/Scenes/G\u0142\u0119bia Mroku/G\u0142\u0119bia Mroku F2.unity"
+    guid: 40fd5a3fdb27eb54cbe045838911bcf3
+  - enabled: 1
+    path: "Assets/Scenes/G\u0142\u0119bia Mroku/G\u0142\u0119bia Mroku F3.unity"
+    guid: a8ea6104987c1324687d1e0a3b00fad2
+  - enabled: 1
+    path: "Assets/Scenes/G\u0142\u0119bia Mroku/G\u0142\u0119bia Mroku F4.unity"
+    guid: 4098c51ec71f80042a7a05aa09f725db
+  - enabled: 1
+    path: "Assets/Scenes/G\u0142\u0119bia Mroku/G\u0142\u0119bia Mroku F5.unity"
+    guid: 8ddbb4c6f7f319d4689a7cccf65d97c8
+  - enabled: 1
+    path: Assets/Scenes/Mrok.unity
+    guid: eece4c3fbdea0f94bac4f59ee54a5fec
+  m_configObjects: {}

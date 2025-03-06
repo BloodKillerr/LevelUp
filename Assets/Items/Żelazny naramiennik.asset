@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad2506e78ea6ad49897492da3febaf0, type: 3}
+  m_Name: "\u017Belazny naramiennik"
+  m_EditorClassIdentifier: 
+  name: "\u017Belazny naramiennik"
+  rarity: Zwyczajny
+  property1: 'Pancerz: 7'
+  property2: "Obra\u017Cenia: 4"
+  description: "Wytrzyma\u0142y, pomimo licznych rys"
+  price: 60
+  icon: {fileID: 21300000, guid: 446faa315b47b224fbeaa45c667298a3, type: 3}
+  amount: 1
+  isStackable: 0
+  mesh: {fileID: 6349224604510372459, guid: eced7c81a9e2ef441811ddf3fdf498bb, type: 3}
+  equipSlot: 2
+  armorModifier: 7
+  damageModifier: 4

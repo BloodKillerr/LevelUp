@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ad2506e78ea6ad49897492da3febaf0, type: 3}
+  m_Name: Stalowy miecz
+  m_EditorClassIdentifier: 
+  name: Stalowy miecz
+  rarity: Zwyczajny
+  property1: "Obra\u017Cenia: 10"
+  property2: 
+  description: Prosty miecz wykonany ze stali
+  price: 10
+  icon: {fileID: 21300000, guid: 5e9bf3256ec63d74699621d5b9d5b2ce, type: 3}
+  amount: 1
+  isStackable: 0
+  mesh: {fileID: 7102362885222856148, guid: 18afb7b572419674ea66136ec16e2fcc, type: 3}
+  equipSlot: 5
+  armorModifier: 0
+  damageModifier: 10
