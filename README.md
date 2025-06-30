@@ -25,7 +25,7 @@
 
 <h2>Usage</h2>
 
-- When the game is launched, players start main menu
+- When the game is launched, players start in the main menu
 - They can check out the settings, which also contain controls
 - Then, they can either start a new game or continue by choosing one of the maximum of 3 save slots
 
